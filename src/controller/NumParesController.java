@@ -1,5 +1,5 @@
 package controller;
-
+//Retorna a quantidade de números pares contidadas no vetor recebido
 public class NumParesController {
 
 	public NumParesController() {
